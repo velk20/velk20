@@ -1,15 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Angel Mladenov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Мy development in computer science and technology
+- 🔭 I’m currently working on ... Мy development in computer science and technology and my first Internship
 - 🌱 I’m currently learning ... Java, SQl, Spring framework and JavaScript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: ## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-mladenov-8aa447181/)
+[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/velk20)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:angelmladenov3@gmail.com)
+
 - ⚡ Fun fact: ...
 
 <p>

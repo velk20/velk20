@@ -5,13 +5,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Мy development in computer science and technology and my first Internship
 - 🌱 I’m currently learning ... Java, SQl, Spring framework and JavaScript
-- 📫 How to reach me: ## Connect with me:
+- 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-mladenov-8aa447181/)
 [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/velk20)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:angelmladenov3@gmail.com)
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I wanted to become a footballer, Messi was my idol 😀
 
 <p>
 <!-- <summary>:zap: GitHub Stats</summary> -->

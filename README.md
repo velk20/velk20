@@ -5,6 +5,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Мy development in computer science and technology and my first Internship
 - 🌱 I’m currently learning ... Java, SQl, Spring framework and JavaScript
+- 💻 Experience in: C#, ASP.NET Core, HTML/CSS/JS, Java and SQL
 - 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-mladenov-8aa447181/)

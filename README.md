@@ -4,7 +4,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Мy development in computer science and technology and my first Internship
+- 
 - 🌱 I’m currently learning ... [![My Skills](https://skillicons.dev/icons?i=java,spring,js,mysql)](https://skillicons.dev)
+- 
 - 💻 Experience in: [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,js,java,wordpress)](https://skillicons.dev)
 - 📫 How to reach me:
 

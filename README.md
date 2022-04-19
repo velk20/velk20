@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ... Мy development in computer science and technology and my first Internship
 
 - 💻 Experience in: 
-- [![My Skills](https://skillicons.dev/icons?i=java,spring,js,mysql,cs,dotnet,html,css,wordpress)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,mysql,cs,dotnet,html,css,wordpress)](https://skillicons.dev)
  
 - 📫 How to reach me:
 

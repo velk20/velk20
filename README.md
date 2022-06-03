@@ -1,4 +1,4 @@
-### Hi there, I'm Angel Mladenov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px">
+### Hi there, I'm Angel Mladenov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
 
 
 Here are some ideas to get you started:

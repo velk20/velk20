@@ -1,7 +1,7 @@
 ### Hi there, I'm Angel Mladenov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
 
-### Currently working on: Мy development in computer science and technology also searching my first Junior Position as Java BE Developer
+### Currently working at SEEBURGER Bulgaria as a Junior Java Developer 💻.
 
 ## 💻 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,androidstudio,js,nodejs,mysql,cs,dotnet,html,css,scss,react,php,wordpress,bootstrap,github,idea,vscode,visualstudio,regex,stackoverflow)](https://skillicons.dev)

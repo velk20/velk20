@@ -4,7 +4,8 @@
 ### Currently working at SEEBURGER Bulgaria as a Junior Java Developer 💻.
 
 ## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,androidstudio,js,nodejs,mysql,cs,dotnet,html,css,scss,react,php,wordpress,bootstrap,github,idea,vscode,visualstudio,regex,stackoverflow)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=java,spring,js,nodejs,angular,mysql,html,css,react,bootstrap)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=github,idea,vscode,stackoverflow)](https://skillicons.dev)
  
 ## 🌐 Socials
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-mladenov-8aa447181/)

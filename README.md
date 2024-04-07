@@ -5,6 +5,7 @@
 
 ## 💻 Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=java,spring,js,nodejs,angular,mysql,html,css,react,bootstrap)](https://skillicons.dev)
+## 🔨 Tools
 [![My Tools](https://skillicons.dev/icons?i=github,idea,vscode,stackoverflow)](https://skillicons.dev)
  
 ## 🌐 Socials

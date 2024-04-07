@@ -4,7 +4,7 @@
 ### Currently working at SEEBURGER Bulgaria as a Junior Java Developer 💻.
 
 ## 💻 Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,nodejs,angular,react,bootstrap)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,ts,nodejs,angular,react,bootstrap)](https://skillicons.dev)
 ## 🔨 Tools
 [![My Tools](https://skillicons.dev/icons?i=github,git,idea,webstorm,vscode,postman,stackoverflow)](https://skillicons.dev)
  

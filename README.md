@@ -10,6 +10,7 @@
  
 ## 🌐 Socials
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-mladenov-8aa447181/)
+  <br/>
   [![GitHub](https://img.shields.io/badge/-Github-000000?style=flate&logo=Github&logoColor=white)](https://github.com/velk20)
 
 ## 📊 GitHub Stats :

@@ -1,5 +1,6 @@
 ## ℹ️ About me
- Hi there, I'm Angel Mladenov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+ Hi there, my name is Angel Mladenov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+ <br/>
  Currently working at SEEBURGER Bulgaria as a Junior Java Developer 💻.
 
 ## 💻 Tech Stack

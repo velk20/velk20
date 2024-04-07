@@ -9,8 +9,8 @@
 [![My Tools](https://skillicons.dev/icons?i=github,git,idea,webstorm,vscode,postman,jenkins,stackoverflow)](https://skillicons.dev)
  
 ## 🌐 Socials
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-mladenov-8aa447181/)
-  [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/velk20)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-mladenov-8aa447181/)
+  [![GitHub](https://img.shields.io/badge/-Github-000000?style=flate&logo=Github&logoColor=white)](https://github.com/velk20)
 
 ## 📊 GitHub Stats :
 <p>

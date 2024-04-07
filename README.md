@@ -4,15 +4,13 @@
 ### Currently working at SEEBURGER Bulgaria as a Junior Java Developer 💻.
 
 ## 💻 Tech Stack
-[![Tech Stack](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,ts,nodejs,angular,react,bootstrap)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=java,spring,mysql,hibernate,html,css,js,ts,nodejs,angular,react,bootstrap)](https://skillicons.dev)
 ## 🔨 Tools
-[![My Tools](https://skillicons.dev/icons?i=github,git,idea,webstorm,vscode,postman,stackoverflow)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=github,git,idea,webstorm,vscode,postman,jenkins,stackoverflow)](https://skillicons.dev)
  
 ## 🌐 Socials
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-mladenov-8aa447181/)
   [![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/velk20)
-
-## ⚡ Fun fact: I wanted to become a footballer, Messi was my idol 😀
 
 ## 📊 GitHub Stats :
 <p>

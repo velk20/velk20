@@ -6,7 +6,7 @@
 ## 💻 Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=java,spring,mysql,html,css,js,nodejs,angular,react,bootstrap)](https://skillicons.dev)
 ## 🔨 Tools
-[![My Tools](https://skillicons.dev/icons?i=github,idea,webstorm,vscode,stackoverflow)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=github,git,idea,webstorm,vscode,postman,stackoverflow)](https://skillicons.dev)
  
 ## 🌐 Socials
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/angel-mladenov-8aa447181/)
